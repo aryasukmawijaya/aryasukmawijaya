@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Arya Sukma Wijaya!
+
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryasukmawijaya&show_icons=true" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryasukmawijaya&layout=compact&hide=html,css" width="45%">
+</op>
 
 <!--
 **aryasukmawijaya/aryasukmawijaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
