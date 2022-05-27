@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Arya Sukma Wijaya!
+Currently Learning: Golang
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aryasukmawijaya&show_icons=true" width="50%">
