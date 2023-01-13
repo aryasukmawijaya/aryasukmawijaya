@@ -2,8 +2,8 @@
 Currently Learning: Golang
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryasukmawijaya&show_icons=true" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryasukmawijaya&layout=compact&hide=html,css" width="45%">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryasukmawijaya&show_icons=true" width="50%">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryasukmawijaya&layout=compact&hide=html,css" width="45%">
 </op>
 
 <!--
